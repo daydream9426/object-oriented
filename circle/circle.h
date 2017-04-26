@@ -3,12 +3,12 @@
 class cir
 {
 	public:
-		void calculate(double r);
+		void calculate(double r);//calculate answer
 		
-		void print();
+		void print();//to print it
 		
 	private:
 		double r;
 		
-		double sum;	//Ãæ»ý 
+		double sum;	//Ä‚Ä‡Å¥Ã½ 
 };
